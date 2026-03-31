@@ -44,6 +44,7 @@ Forecasting & Insights Generation
 ![Main Dashboard](https://github.com/PoojaNamdev/SuperStore-Sales-Dashboard/raw/main/preview1.png)
 
 🔹 Sales Forecast (15 Days)
+![Sales Forecast](https://github.com/PoojaNamdev/SuperStore-Sales-Dashboard/raw/main/preview2.png)
 
 
 📁 Files Included
