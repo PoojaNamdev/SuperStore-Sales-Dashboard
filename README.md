@@ -41,12 +41,10 @@ Forecasting & Insights Generation
 
 📷 Dashboard Preview
 🔹 Main Dashboard
-
-(
+![Main Dashboard](https://github.com/PoojaNamdev/SuperStore-Sales-Dashboard/raw/main/preview1.png)
 
 🔹 Sales Forecast (15 Days)
 
-(Add Image Here)
 
 📁 Files Included
 📊 Power BI File (.pbix)
