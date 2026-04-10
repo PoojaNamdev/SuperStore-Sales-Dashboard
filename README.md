@@ -62,7 +62,7 @@ Extracting actionable business insights
 📬 Connect With Me
 I’m actively looking for opportunities in Data Analytics and would love to connect!
 
-💼 LinkedIn: https://www.linkedin.com/in/pooja-namdev-12297a289/
+💼 LinkedIn: https://www.linkedin.com/in/poojanamdevofficial/
 📧 Email: pnamdev619@gmail.com
 
 ⭐ If you found this project helpful, don’t forget to give it a star!
